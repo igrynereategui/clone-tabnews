@@ -1,5 +1,5 @@
 function Home() {
-    return <h1>Te amo baby bb, e agora com link novo =P</h1>
+    return <h1>Te amo, mesmo você sendo SUUUUUPER bocó olhando spoiler do meu codespace ò_ó</h1>
 }
 
 export default Home;
